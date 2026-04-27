@@ -1,45 +1,37 @@
-# <img src="https://img.icons8.com/color/48/apple-logo.png" width="32"> ClassicOS6
+# <img src="https://img.icons8.com/color/48/apple-logo.png" width="30"> ClassicOS6
 
-> **Bringing the magic of 2010 back to modern iOS.**
-
----
-
-### ✨ Features
-* **Skeuomorphic Design:** Glossy textures and glass effects inspired by iOS 6.
-* **Unlock Animation:** Custom classic-style unlock transitions (Current focus).
-* **Rootless Ready:** Fully optimized for Dopamine and other modern jailbreaks.
+> **Bringing the 2010 Apple aesthetic back to modern iOS.**
 
 ---
 
-### 📸 Preview
-| Lock Screen | Home Screen |
-| :---: | :---: |
-| <img src="https://via.placeholder.com/200x400?text=Unlock+Animation" width="180"> | <img src="https://via.placeholder.com/200x400?text=Skeuo+Style" width="180"> |
+### 📦 Project Overview
+* 📱 **Skeuomorphism:** Glossy textures and glass effects.
+* 🔓 **Unlock Animation:** Custom classic-style transitions (In Progress).
+* 🛠 **Rootless:** Optimized for Dopamine and modern jailbreaks.
 
 ---
 
 ### 🛠 Installation
-To install **ClassicOS6**, use one of the buttons below:
+Click the button below to access the compiled tweaks and installation files:
 
-[![](https://img.shields.io/badge/Add_to_Sileo-EB5F4B?style=for-the-badge&logo=sileo&logoColor=white)](https://cydia.saurik.com/api/share #ЗАМЕНИ_НА_СВОЮ_ССЫЛКУ)
-[![](https://img.shields.io/badge/Download_.DEB-007AFF?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Mark48729756/ClassicOS6/releases)
-
----
-
-### 📅 Roadmap
-- [x] Initial Unlock Animation
-- [ ] Fix minor bugs & lag
-- [ ] Add glossy UI elements for Control Center
-- [ ] Apple Website 2010 Style (Interface design)
+[![](https://img.shields.io/badge/Open_Tweaks_Folder-EB5F4B?style=for-the-badge&logo=sileo&logoColor=white)](https://github.com/Mark48729756/ClassicOS6/tree/main/Tweaks)
 
 ---
 
-### 👨‍💻 Developed by
-**Mark** (Liquid Games)
-*Specializing in Python, Rust, and iOS Modding.*
+### 🗓️ Roadmap & Progress
+- [x] <img src="https://img.icons8.com/ios-filled/20/000000/unlock.png"> Initial Unlock Animation
+- [ ] <img src="https://img.icons8.com/ios-filled/20/000000/bug.png"> Fix minor bugs and stability
+- [ ] <img src="https://img.icons8.com/ios-filled/20/000000/web.png"> Apple Website 2010 Style UI
+- [ ] <img src="https://img.icons8.com/ios-filled/20/000000/layers.png"> More glossy system elements
+
+---
+
+### 👨‍💻 Developer
+**Mark** (Liquid Games)  
+*Python, Rust, and iOS Modding enthusiast.*
 
 ---
 <p align="center">
-  <img src="https://img.shields.io/github/stars/Mark48729756/ClassicOS6?style=social">
-  <img src="https://img.shields.io/github/license/Mark48729756/ClassicOS6?color=blue">
+  <img src="https://img.shields.io/github/stars/Mark48729756/ClassicOS6?style=flat-square&color=gold">
+  <img src="https://img.shields.io/github/license/Mark48729756/ClassicOS6?style=flat-square&color=007AFF">
 </p>
