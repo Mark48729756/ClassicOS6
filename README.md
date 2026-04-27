@@ -1,4 +1,4 @@
-# <img src="https://img.icons8.com/color/48/apple-logo.png" width="30"> ClassicOS6
+# <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Apple_logo_white.svg" width="22" style="vertical-align: middle; margin-bottom: 4px;"> ClassicOS6
 
 > **Bringing the 2010 Apple aesthetic back to modern iOS.**
 
@@ -19,16 +19,15 @@ Click the button below to access the compiled tweaks and installation files:
 ---
 
 ### 🗓️ Roadmap & Progress
-- [x] <img src="https://img.icons8.com/ios-filled/20/000000/unlock.png"> Initial Unlock Animation
-- [ ] <img src="https://img.icons8.com/ios-filled/20/000000/bug.png"> Fix minor bugs and stability
-- [ ] <img src="https://img.icons8.com/ios-filled/20/000000/web.png"> Apple Website 2010 Style UI
-- [ ] <img src="https://img.icons8.com/ios-filled/20/000000/layers.png"> More glossy system elements
+- [x] **Done:** Initial Unlock Animation
+- [ ] **Planned:** Fix minor bugs and stability
+- [ ] **Planned:** Apple Website 2010 Style UI
+- [ ] **Planned:** More glossy system elements
 
 ---
 
 ### 👨‍💻 Developer
-**Mark** (Liquid Games)  
-*Python, Rust, and iOS Modding enthusiast.*
+**Mark** *iOS Modding and software development enthusiast.*
 
 ---
 <p align="center">
